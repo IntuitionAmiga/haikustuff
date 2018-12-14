@@ -17,7 +17,7 @@
  *
  */
 
-#include "/boot/system/develop/headers/private/system/syscalls.h"
+#include <private/system/syscalls.h>
 
 int main(int argc, char **argv) {
     _kern_shutdown(true);
