@@ -4,18 +4,10 @@
  *
  * Authors:
  *      Zayn Otley (zayn@certificationcourses.co.uk)
- */
-
-/*!	Reboots the system. */
-
-/* Build with:
+ * 
+ * Reboots the system.
  *
- * g++ -Ofast -march=native \
- * -I/boot/system/develop/headers/private/system/ \
- * -I/boot/home/src/haiku/headers/private/system/arch/x86_64 \
- * reboot.cpp -o reboot -lbe
- *
- */
+*/
 
 #include <private/system/syscalls.h>
 
