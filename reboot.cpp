@@ -3,7 +3,7 @@
  * Distributed under the terms of the MIT License.
  *
  * Authors:
- *      Zayn Otley (zayn@certificationcourses.co.uk)
+ *      Zayn Otley (zayn@duck.com)
  * 
  * Reboots the system.
  *
